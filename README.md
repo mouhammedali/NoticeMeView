@@ -1,5 +1,5 @@
 # NoticeMeView
-<div class="tenor-gif-embed" data-postid="5350005" data-share-method="host" data-width="30%" div style="text-align: center" data-aspect-ratio="0.7530864197530864"><a href="https://tenor.com/view/the-office-michael-scott-steve-carell-attention-pay-attention-to-me-gif-5350005">The Office Michael Scott GIF</a> from <a href="https://tenor.com/search/theoffice-gifs">Theoffice GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![](https://drive.google.com/open?id=1Zde8v6aQyGjMsm066jPephecf1iwwGLx)
 
 So you have lauched this new feature, this new button, view, but users aren't engaging enough, worst? may be not noticing at all, will that's about to change.
 
@@ -13,8 +13,10 @@ So you have lauched this new feature, this new button, view, but users aren't en
 
 ## Usage
 1. Create new view in storyboard.
-2. Change view class to **NoticeMeView**.![](https://drive.google.com/uc?export=download&id=1MT88atZ30VBTkHHaO5Sar-wD09i7Xuye)
-3. Turn on Blink or Shine from Attributes Inspector.![](https://drive.google.com/uc?export=download&id=1V56DbXu40s4J52ofGhyfUfDBAUqzGTwW)
+2. Change view class to **NoticeMeView**.
+![](https://drive.google.com/uc?export=download&id=1MT88atZ30VBTkHHaO5Sar-wD09i7Xuye)
+3. Turn on Blink or Shine from Attributes Inspector.
+![](https://drive.google.com/uc?export=download&id=1V56DbXu40s4J52ofGhyfUfDBAUqzGTwW)
 4. **VOILLA**
 
 ## Example
@@ -22,7 +24,7 @@ So you have lauched this new feature, this new button, view, but users aren't en
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
-Xcode 
+Xcode 10.2
 
 Swift 5.0
 
