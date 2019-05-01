@@ -1,0 +1,6 @@
+framework module NoticeMeView {
+  umbrella header "NoticeMeView-umbrella.h"
+
+  export *
+  module * { export * }
+}

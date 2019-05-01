@@ -1,0 +1,22 @@
+{
+  "name": "NoticeMeView",
+  "version": "0.1.0",
+  "summary": "A short description of NoticeMeView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mouhammed.ali200/NoticeMeView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mouhammed.ali200": "mouhammedaliamer@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/mouhammed.ali200/NoticeMeView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NoticeMeView/Classes/**/*"
+}
