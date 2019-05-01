@@ -1,5 +1,5 @@
 # NoticeMeView
-![](https://drive.google.com/open?id=1Zde8v6aQyGjMsm066jPephecf1iwwGLx)
+![](https://drive.google.com/uc?export=download&id=1Zde8v6aQyGjMsm066jPephecf1iwwGLx)
 
 So you have lauched this new feature, this new button, view, but users aren't engaging enough, worst? may be not noticing at all, will that's about to change.
 
@@ -12,12 +12,22 @@ So you have lauched this new feature, this new button, view, but users aren't en
 
 
 ## Usage
-1. Create new view in storyboard.
-2. Change view class to **NoticeMeView**.
-![](https://drive.google.com/uc?export=download&id=1MT88atZ30VBTkHHaO5Sar-wD09i7Xuye)
-3. Turn on Blink or Shine from Attributes Inspector.
-![](https://drive.google.com/uc?export=download&id=1V56DbXu40s4J52ofGhyfUfDBAUqzGTwW)
-4. **VOILLA**
+1- Create new view in storyboard.
+
+
+2- Change view class to **NoticeMeView**.
+
+
+
+<img src="https://drive.google.com/uc?export=download&id=1MT88atZ30VBTkHHaO5Sar-wD09i7Xuye" width="300" />
+
+3- Turn on Blink or Shine from Attributes Inspector.
+
+
+<img src="https://drive.google.com/uc?export=download&id=1V56DbXu40s4J52ofGhyfUfDBAUqzGTwW" width="300" />
+
+
+4- **VOILLA**
 
 ## Example
 
