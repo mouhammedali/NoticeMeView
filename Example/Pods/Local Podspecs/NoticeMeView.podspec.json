@@ -1,18 +1,19 @@
 {
   "name": "NoticeMeView",
   "version": "0.1.0",
-  "summary": "A short description of NoticeMeView.",
+  "summary": "Make new features more vibrant",
+  "swift_versions": "5.0",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/mouhammed.ali200/NoticeMeView",
+  "homepage": "https://github.com/mouhammedali/NoticeMeView",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "mouhammed.ali200": "mouhammedaliamer@gmail.com"
+    "mouhammedali": "mouhammedaliamer@gmail.com"
   },
   "source": {
-    "git": "https://github.com/mouhammed.ali200/NoticeMeView.git",
+    "git": "https://github.com/mouhammedali/NoticeMeView.git",
     "tag": "0.1.0"
   },
   "platforms": {
