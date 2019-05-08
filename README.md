@@ -55,9 +55,11 @@ pod 'NoticeMeView', :git => 'https://github.com/mouhammedali/NoticeMeView'
 
 ## Author
 
-mouhammedali, mouhammedaliamer@gmail.com
+* mouhammedali, mouhammedaliamer@gmail.com
 
-Check more of my work on [Pintrest]()
+* Check more of my work on [Pintrest](https://pin.it/lowsm3sscypihq)
+
+* Hire me on [Mostaql](https://mostaql.com/u/mouhammed_ali)
 
 
 ## Credits
