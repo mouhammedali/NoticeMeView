@@ -5,10 +5,16 @@ So you have lauched this new feature, this new button, view, but users aren't en
 
 
 ## Features
+
+
+
+| Blink        | Glow           |
+| ------------- |:-------------:|
+|    ![](https://drive.google.com/uc?export=download&id=1ZrDerAM7ot0Ml9BQrvg-7GnGfbV5U9d2) | ![](https://drive.google.com/uc?export=download&id=1aitySdhZ481qBc-qYCLPQ0OgICLL95tm) |
+
+
 **Blink** or **Shine** your view to make it stand out better.
 
-
-![](https://drive.google.com/uc?export=download&id=1oiAhfJMVzx9O1blfvsC0bqQRNZCFgoOt)
 
 
 ## Usage
